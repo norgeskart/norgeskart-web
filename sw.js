@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/app-58524789f2fbe4dae10a.js","e8ab6b4787c06fd2ac1ba7ee739de4c7"],["/commons-1d20aeb3c52be57830ff.js","06d9f53d40f5516ae43aa6be8abb81cf"],["/commons-d909f63494949a4bcaac.js","e23cbc53bf8b30b7c0852e3ea3504e02"],["/index.html","8fadac965fa5d4e660234a75bbd28e6f"],["/manifest.webmanifest","a52790bae2e5b85eaf4013e89494ca73"],["/offline-plugin-app-shell-fallback/index.html","f256c7f83583f2431cbc561fc0758dc4"]];
+var precacheConfig = [["/norgeskart-web/app-58524789f2fbe4dae10a.js","eece2c2c9bdea6e6c6695b89c0ede5a8"],["/norgeskart-web/commons-1d20aeb3c52be57830ff.js","06d9f53d40f5516ae43aa6be8abb81cf"],["/norgeskart-web/commons-5cfeb68c081d7d2759fd.js","a8088493c900028fad114cdb2f17925d"],["/norgeskart-web/commons-d909f63494949a4bcaac.js","e23cbc53bf8b30b7c0852e3ea3504e02"],["/norgeskart-web/index.html","90cd75c0bf2ba5f5afbcb01a90e9d8e8"],["/norgeskart-web/manifest.webmanifest","a52790bae2e5b85eaf4013e89494ca73"],["/norgeskart-web/offline-plugin-app-shell-fallback/index.html","4329ff081748f721e581b6498abd0616"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
