@@ -1,0 +1,2 @@
+webpackJsonp([39410027937385],{758:function(a,t){a.exports={data:{allPlacesJson:{totalCount:1,edges:[{node:{name:"Høgabu",slug:"hogabu"}}]},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{municipality:"Vaksdal"}}}});
+//# sourceMappingURL=path---kommune-vaksdal-70b78b670b293146320f.js.map

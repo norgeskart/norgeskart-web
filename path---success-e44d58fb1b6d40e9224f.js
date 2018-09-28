@@ -1,0 +1,2 @@
+webpackJsonp([0x9b544cfa2a85],{765:function(e,s){e.exports={data:{page:{id:"/Users/robert/Documents/Bitbucket/RobertSasak/norgeskart-web/content/pages/success/index.md absPath of file >>> MarkdownRemark",html:"<p>Thank you. <br />\nI will answer to your message as soon as possible.</p>",frontmatter:{title:"Success"}},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{slug:"/success/"}}}});
+//# sourceMappingURL=path---success-e44d58fb1b6d40e9224f.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([56385794288600],{760:function(a,e){a.exports={data:{cabins:{edges:[{node:{name:"Høgabu",slug:"hogabu",category:"Vaksdal"}}]},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{}}}});
+//# sourceMappingURL=path---municipality-9adbcc70d46f677dccd2.js.map
